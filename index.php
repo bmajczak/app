@@ -11,6 +11,7 @@
     </style>
 </head>
 <body>
+    test
     <h1>dane z tabeli</h1>
 <?php
 
