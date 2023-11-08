@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-test15
+test16
     <h1>dane z tabeli</h1>
 <?php
 
